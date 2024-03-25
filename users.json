@@ -1,10 +1,15 @@
 {
-  "admin": {
-    "password": "abc"
-  },
-  "player1": {
-    "full_name": "John Doe",
-    "high_score": 0,
-    "password": "123"
-  }
+    "admin": {
+        "password": "abc"
+    },
+    "player1": {
+        "full_name": "John Doe",
+        "high_score": 0,
+        "password": "123"
+    },
+    "jack": {
+        "full_name": "1234",
+        "high_score": 0,
+        "password": "1234"
+    }
 }
